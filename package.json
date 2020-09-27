@@ -1,0 +1,28 @@
+{
+  "name": "scoreboard",
+  "version": "1.0.0",
+  "description": "Scoreboard app created with react",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twhitelow1/scoreboard-react.git"
+  },
+  "keywords": [
+    "react",
+    "scoreboard"
+  ],
+  "author": "Todd Whitelow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/twhitelow1/scoreboard-react/issues"
+  },
+  "homepage": "https://github.com/twhitelow1/scoreboard-react#readme",
+  "devDependencies": {
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12"
+  }
+}
